@@ -42,4 +42,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * E-MAIL :michaelodhiambo760@gmail.com
 
 # LICENSE
+* MIT License Copyright (c) [year] [fullname]
 
