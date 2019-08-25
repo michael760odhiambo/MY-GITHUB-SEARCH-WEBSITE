@@ -25,7 +25,7 @@ export class ProfileComponent implements OnInit {
 
     this.ProfileService.getProfileRepos().subscribe(repos => {
       console.log(repos);
-      this.repos = repos;
+      this. = repos;
    })
 
   }
