@@ -6,7 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Michael odhiambo
 
 # TECHNOLOGIES USED
+HTML
+CSS
+BOOTSTRAP
+JAVASCRIPT
 
+# LIVE LINK
 
 ## Development server
 
