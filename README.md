@@ -40,3 +40,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # CONTACT
 * you can reach me through
 * E-MAIL :michaelodhiambo760@gmail.com
+
+# LICENSE
+
