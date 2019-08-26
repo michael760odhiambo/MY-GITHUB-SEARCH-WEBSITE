@@ -1,6 +1,7 @@
 # Githubsearch
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+This projects in a mechanism that enables the user to search their github details when they key in their names .
 
 # AUTHOR
 Michael odhiambo
