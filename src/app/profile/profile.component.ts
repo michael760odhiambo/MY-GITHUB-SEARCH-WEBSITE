@@ -1,5 +1,28 @@
 import { Component, OnInit } from '@angular/core';
 import { ProfileService } from '../profile.service';
+import { Profile } from '../profile';
+ //import { Repos } from '../repos/profile.sevices';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @Component({
   selector: 'app-profile',
@@ -8,8 +31,8 @@ import { ProfileService } from '../profile.service';
 })
 export class ProfileComponent implements OnInit {
 
-  profile:any[];
-  repos:any[];
+  profile:any;
+  repos:any;
   username:string;
   completeDate= new Date('{{deployments_url}}')
 
@@ -30,7 +53,9 @@ export class ProfileComponent implements OnInit {
 
   }
 
-  ngOnInit(){ 
+  ngOnInit(
+
+  ){ 
 
    }
   }
