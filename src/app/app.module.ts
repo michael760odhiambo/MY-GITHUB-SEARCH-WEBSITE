@@ -7,7 +7,7 @@ import { ProfileService } from './profile.service';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-//import { NavBarComponent } from './nav-bar/nav-bar.component';
+
 import { ProfileComponent } from './profile/profile.component';
 import { AboutComponent } from './about/about.component';
 import { NavbarComponent } from './navbar/navbar.component';
@@ -16,7 +16,7 @@ import { DateCountPipe } from './date-count.pipe';
 @NgModule({
   declarations: [
     AppComponent,
-   // NavBarComponent,
+  
     ProfileComponent,
    AboutComponent,
    NavbarComponent,
